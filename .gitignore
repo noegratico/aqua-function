@@ -1,0 +1,17 @@
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
+lib/**/*.png
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
+
+2023-04-07T04:30:20_58400/
+2023-05-02T04:35:17_58624/
+2023-05-02T04:54:12_97792/
+2023-05-02T19:44:34_91072/
+fire*
+*debug*
